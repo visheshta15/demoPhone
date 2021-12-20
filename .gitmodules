@@ -1,0 +1,3 @@
+[submodule "demoSamsung"]
+	path = demoSamsung
+	url = https://github.com/visheshta15/demoSamsung.git
